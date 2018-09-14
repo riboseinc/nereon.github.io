@@ -1,0 +1,20 @@
+= Site for Nereon project
+
+This powers https://www.nereon.com[the site for Nereon open project],
+part of https://open.ribose.com[Ribose Open].
+
+It is a https://jekyllrb.com[Jekyll] site.
+See _config.yml for configuration.
+Site data is located in this directory.
+Built site is placed under _site.
+
+== Development
+
+* In short, ensure you have reasonable Ruby versibon, run `bundle` from within
+  site directory to install gem dependencies, and run `jekyll serve` to launch
+  site preview.
+
+* See https://github.com/riboseinc/jekyll-theme-open-project/blob/master/README.md[Open Project theme documentation]
+  for how to develop sites with our framework, was well as how to make changes to theme itself.
+
+* Feel free to submit PR if you spot incorrect information or typos.
