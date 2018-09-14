@@ -8,6 +8,10 @@ See _config.yml for configuration.
 Site data is located in this directory.
 Built site is placed under _site.
 
+== Key software
+
+* https://github.com/riboseinc/nereond[Nereon configuration daemon]
+
 == Development
 
 * In short, ensure you have reasonable Ruby versibon, run `bundle` from within
