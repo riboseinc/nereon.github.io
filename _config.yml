@@ -1,0 +1,39 @@
+title: Nereon
+description: Configuration daemon written in Rust
+# The above two are used by jekyll-seo-tag for things such as
+# `<title>` and `<meta>` tags, as well as elsewhere by the theme.
+
+tagline: >-
+  Configuration daemon with UCL syntax
+
+pitch: >-
+  Written in Rust.
+
+author: "Ribose Inc."
+
+authors:
+  - name: Ribose Inc.
+    email: open.source@ribose.com
+
+contact_email: open.source@ribose.com
+
+theme: jekyll-theme-open-project
+
+parent_hub:
+  git_repo_url: https://github.com/riboseinc/open.ribose.com
+  home_url: https://open.ribose.com/
+
+social:
+  links:
+    - https://twitter.com/RiboseUS
+    - https://github.com/riboseinc
+
+legal:
+  name: Ribose Group Inc.
+  tos_link: https://www.ribose.com/tos
+  privacy_policy_link: https://www.ribose.com/privacy
+
+home_calls_to_action:
+  - { url: "/software/nereond/docs/README/", title: "Get Started" }
+
+permalink: /blog/:month-:day-:year/:title/
