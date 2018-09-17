@@ -1,13 +1,13 @@
 title: Nereon
-description: Configuration daemon written in Rust
+description: Universal configuration model, schema and syntax
 # The above two are used by jekyll-seo-tag for things such as
 # `<title>` and `<meta>` tags, as well as elsewhere by the theme.
 
 tagline: >-
-  Configuration daemon with UCL syntax
+  The universal configuration model and schema syntax
 
 pitch: >-
-  Written in Rust.
+  Consolidated configuration for every process and container.
 
 author: "Ribose Inc."
 
