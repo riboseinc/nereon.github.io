@@ -1,5 +1,6 @@
 title: Nereon
-description: Universal configuration model, schema and syntax
+description: >-
+  Universal configuration model, schema and syntax
 # The above two are used by jekyll-seo-tag for things such as
 # `<title>` and `<meta>` tags, as well as elsewhere by the theme.
 
