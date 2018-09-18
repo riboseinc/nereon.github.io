@@ -1,0 +1,19 @@
+---
+title: Nereon configuration syntax
+description: >-
+  Defines configuration syntax (NOC) and configuration schema syntax (NOS)
+  for Nereon objects.
+source_url: https://github.com/riboseinc/nereon-syntax
+tags: [Draft]
+---
+
+The Nereon project aims to unify and glue together cloud
+configuration management through the Nereon data models.
+footnote:[https://github.com/riboseinc/nereon-models[Find Nereon models here.]]
+
+The Nereon Object Configuration syntax (NOC)
+and Nereon Object Configuration Schema syntax (NOS)
+are methods used to express configuration settings in
+Nereon data models.
+
+This document defines the syntax and the schema syntax.
