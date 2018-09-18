@@ -35,6 +35,7 @@ legal:
   privacy_policy_link: https://www.ribose.com/privacy
 
 home_calls_to_action:
-  - { url: "/software/nereond/docs/README/", title: "Get Started" }
+  - { url: "/specs/nereon-syntax/", title: "Read the Specs" }
+  - { url: "/software/", title: "See the Ecosystem" }
 
 permalink: /blog/:month-:day-:year/:title/
