@@ -9,7 +9,7 @@ tags: [Draft]
 
 The Nereon project aims to unify and glue together cloud
 configuration management through the Nereon data models.
-footnote:[https://github.com/riboseinc/nereon-models[Find Nereon models here.]]
+footnote:[Find https://github.com/riboseinc/nereon-models[Nereon models on GitHub].]
 
 The Nereon Object Configuration syntax (NOC)
 and Nereon Object Configuration Schema syntax (NOS)
