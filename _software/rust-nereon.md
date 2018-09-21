@@ -5,5 +5,5 @@ docs_url: https://docs.rs/nereon/0.1.8/nereon/
 description: Nereon parser in Rust.
 tags: [Rust, library]
 
-feature_with_priority: 2
+feature_with_priority: 1
 ---
