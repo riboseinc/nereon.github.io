@@ -41,3 +41,5 @@ home_calls_to_action:
   - { url: "/software/", title: "See the Ecosystem" }
 
 permalink: /blog/:month-:day-:year/:title/
+
+url: https://nereon.com/
