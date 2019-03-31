@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.3"
 
-gem "jekyll-theme-open-project", "~> 1.2.3"
+gem "jekyll-theme-open-project", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -11,7 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-data"
   gem "jekyll-asciidoc"
   gem "git"
-  gem "jekyll-theme-open-project-helpers", "~> 1.2.3"
+  gem "jekyll-theme-open-project-helpers", "~> 2.0"
 end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

@@ -3,7 +3,12 @@ title: Nereon configuration syntax
 description: >-
   Defines configuration syntax (NOC) and configuration schema syntax (NOS)
   for Nereon objects.
-source_url: https://github.com/riboseinc/nereon-syntax
+
+external_links:
+  - { url: "https://riboseinc.github.io/nereon-syntax/", title: "View specification" }
+  - url: https://github.com/riboseinc/nereon-syntax
+
+feature_with_priority: 1
 tags: [Draft]
 ---
 

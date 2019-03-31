@@ -1,5 +1,10 @@
 ---
 ---
+
+$primary-color: #380036;
+$accent-color: #0cbaba;
+$main-background: linear-gradient(315deg, $accent-color 0%, $primary-color 74%);
+
 @import 'jekyll-theme-open-project';
 
 body.layout--home > .underlay > .hero .illustration {

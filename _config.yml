@@ -12,6 +12,8 @@ pitch: >-
   Because the configuration expectations of your software
   deserve to be managed consistently.
 
+landing_priority: [specs, software, blog]
+
 author: "Ribose Inc."
 
 authors:
