@@ -1,6 +1,7 @@
 ---
 title: "Nereon in C: libnereon"
 repo_url: https://github.com/riboseinc/libnereon
+repo_branch: master
 
 external_links:
   - url: https://github.com/riboseinc/libnereon

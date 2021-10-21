@@ -1,6 +1,7 @@
 ---
 title: "Nereon in Rust"
 repo_url: https://github.com/riboseinc/rust-nereon
+repo_branch: master
 
 external_links:
   - url: https://docs.rs/nereon/0.1.8/nereon/
