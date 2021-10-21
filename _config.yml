@@ -5,6 +5,8 @@ description: >-
 # The above two are used by jekyll-seo-tag for things such as
 # `<title>` and `<meta>` tags, as well as elsewhere by the theme.
 
+includes_dir: '.'
+
 tagline: >-
   Consolidated configuration<br>for every process and container
 
@@ -44,4 +46,48 @@ home_calls_to_action:
 
 permalink: /blog/:month-:day-:year/:title/
 
-url: https://nereon.com/
+collections:
+  software:
+    output: true
+    permalink: /software/:path/
+  pages:
+    output: true
+    permalink: /:name/
+  specs:
+    output: false
+    permalink: /specs/:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: _posts
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: _software
+      type: software
+    values:
+      layout: product
+  - scope:
+      path: _specs
+      type: specs
+    values:
+      layout: spec
+
+url: "https://nereon.com/"
+github_repo_url: "https://github.com/nereon/nereon.com"
+
+
+tag_namespaces:
+  software:
+    writtenin: "Written in"
+    bindingsfor: "Bindings for"
+    user: "Target user"
+    interface: "Interface"
+  specs:
+    audience: "Audience"
+    completion_status: "Status"
