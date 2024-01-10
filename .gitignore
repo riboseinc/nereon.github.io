@@ -4,7 +4,8 @@ _software/_*_repo
 _specs/*/.git
 _specs/*/docs
 parent-hub/*
-
+parent-hub
 _site/
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
